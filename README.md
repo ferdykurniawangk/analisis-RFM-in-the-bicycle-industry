@@ -66,10 +66,10 @@ By implementing targeted marketing, segmentation leads to a 7.58% reduction in t
 
 ## Conclusion  
 By applying RFM Analysis, businesses in the bicycle industry can:  
-- **Identify and reward high-value customers (VIPs)**  
-- **Optimize marketing efforts for Loyal customers**  
-- **Minimize budget waste on low-value customers**  
-- **Reduce overall marketing costs by 7.58%**  
-- **Maximize ROI through data-driven strategies**  
+- Identify and reward high-value customers (VIPs).
+- Optimize marketing efforts for Loyal customers.  
+- Minimize budget waste on low-value customers. 
+- Reduce overall marketing costs by 7.58%.
+- Maximize ROI through data-driven strategies.  
 
 *"Data-driven segmentation is the key to marketing efficiency—by understanding customer value, businesses can allocate resources strategically, reduce unnecessary costs, and maximize return on investment."*  
